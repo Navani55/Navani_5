@@ -1,2 +1,0 @@
-Hi This is second text file
-Updating file on github
